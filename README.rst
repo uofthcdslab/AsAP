@@ -1,8 +1,8 @@
 AsAP: Articulating Assumptions in Machine Learning
 ==================================================
 
-.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.18582385.svg
-  :target: https://doi.org/10.5281/zenodo.18582385
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.18637042.svg
+  :target: https://doi.org/10.5281/zenodo.18637042 
   :alt: DOI
 
 .. image:: https://img.shields.io/badge/Citation-CHI%2725-blue.svg
