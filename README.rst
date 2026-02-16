@@ -48,8 +48,6 @@ Citation
 
 If you use this framework in your research or documentation, please cite the primary paper:
 
-**BibTeX:**
-
 .. code-block:: bibtex
 
    @inproceedings{mothilal2025assumptions,
