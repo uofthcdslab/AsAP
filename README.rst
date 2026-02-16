@@ -63,7 +63,7 @@ If you use this framework in your research or documentation, please cite the pri
      doi = {10.1145/3706598.3713958}
    }
 
-If you use this **codebase** or the **AsAP worksheet** directly, please *also* cite this artifact:
+If you use the **AsAP worksheet** directly, please *also* cite this artifact:
 
 .. code-block:: bibtex
 
